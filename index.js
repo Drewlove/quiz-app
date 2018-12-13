@@ -47,7 +47,7 @@ const QUESTIONS = [
     }, 
     {
         id: 2, 
-        question: "Ferris’ sister’s name was Jeanie, but according to her, her friends called her what??", 
+        question: "Ferris’ sister’s name was Jeanie, but according to her, her friends called her what?", 
         answers: [
             {
                 text: "Shauna", 
